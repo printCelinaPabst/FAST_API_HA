@@ -1,0 +1,18 @@
+{
+    "mitarbeiter": [
+        {
+            "vorname": "Celina",
+            "nachname": "Pabst",
+            "email": "celina.mueller@example.com",
+            "telefon": "+49 123 4567890"
+        },
+        
+        {
+            "vorname": "Jonas",
+            "nachname": "Schmidt",
+            "email": "jonas.schmidt@example.com",
+            "telefon": "+49 123 4567890"
+
+        }
+    ]
+}
